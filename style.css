@@ -1,0 +1,16 @@
+body {font-family: kim-jung-chul-gothic, sans-serif;}
+
+/* 네비게이션 영역 */
+.nav-link:hover,
+.nav-link.active {color: #f9ebc7 !important;}
+.navbar {background-color: #6f4e3d;}
+
+/* 헤더 영역 */
+header {background-image: url(img/header.jpg), linear-gradient(to top, #D8d8d6, #909090);
+    background-size: cover;
+    background-position: center top;
+    background-attachment: fixed;}
+
+/* 풋터 영역 */
+.footer {color: #f9ebc7 !important;}
+.footer {background-color: #6f4e3d;}
