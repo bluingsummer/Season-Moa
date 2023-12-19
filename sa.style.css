@@ -1,0 +1,28 @@
+body {font-family: kim-jung-chul-gothic, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    }
+
+/* 네비게이션 영역 */
+.nav-link:hover,
+.nav-link.active {color: #f9ebc7 !important;}
+.navbar {background-color: #6f4e3d;}
+
+/* 헤더 영역 */
+header {background-image: url(img/autumnpage.jpg);
+    background-size: cover;
+    background-position: center top;
+    background-attachment: fixed;}
+
+/* 섹션 영역 */
+section {color: #6f4e3d;}
+.card {color: #6f4e3d;}
+
+/* 섹션 영역 */
+.id {background-color: #6f4e3d;}
+
+/* 풋터 영역 */
+.navbar {color: #f9ebc7;}
+
+.footer {color: #ffffff !important;}
+.footer {background-color: #6f4e3d;}
